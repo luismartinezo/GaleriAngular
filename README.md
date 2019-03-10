@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Galeria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# GaleriAngular
+Galeria de Imagenes en Angular utilizando API desde Laravel como BackEnd
+>>>>>>> 7566e4bd21fd458f1a89b6978c37d7f86ab2902c
